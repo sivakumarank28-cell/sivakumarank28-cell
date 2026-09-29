@@ -23,3 +23,9 @@ Mechanical design topics relevant to headlamp, rear-lamp and interior-lighting d
 ### Tools
 
 CATIA V5/V6 • ENOVIA • Teamcenter • 3DEXPERIENCE
+
+## Engineering Case Study Structure
+
+**Problem / Scope → Design Considerations → Packaging & Integration → Validation → Engineering Learning**
+
+This portfolio uses process-focused documentation rather than confidential customer data.
