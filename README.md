@@ -13,6 +13,27 @@ Bengaluru, India • [LinkedIn](https://www.linkedin.com/in/kumaran-k-431119157)
 
 ---
 
+
+
+<div align="center">
+
+[![Automotive Lighting](https://img.shields.io/badge/Automotive%20Lighting-R%26D-0b2d4d?style=for-the-badge)](https://github.com/sivakumarank28-cell)
+[![Mechanical Design](https://img.shields.io/badge/Mechanical%20Design-CATIA%20V5%2FV6-164e73?style=for-the-badge)](https://github.com/sivakumarank28-cell)
+[![PLM](https://img.shields.io/badge/PLM-ENOVIA%20%7C%20Teamcenter%20%7C%203DEXPERIENCE-1f6f8b?style=for-the-badge)](https://github.com/sivakumarank28-cell)
+
+</div>
+
+## 🔎 Engineering Portfolio
+
+| Area | What you'll find |
+|---|---|
+| **Lighting Development** | Headlamp, rear lamp, interior lighting, packaging and integration |
+| **Mechanical Design** | Plastic parts, mounting strategy, DFM, draft and tooling feasibility |
+| **Vehicle Integration** | Installation checks, RRSH, fitment and validation support |
+| **PLM / Digital Engineering** | ENOVIA, Teamcenter, 3DEXPERIENCE and workflow learning |
+
+**Portfolio:** [Explore the engineering case studies →](./portfolio/README.md)
+
 ## 👋 About Me
 
 Senior Mechanical Design Engineer with **6+ years of automotive lighting product-development experience** across **Marelli**, **Segula Technologies / Renault Nissan Technology & Business Center India**, and **Valeo**.
