@@ -24,3 +24,9 @@ CATIA V6
 ## Portfolio boundary
 
 This repository is an engineering presentation of skills and workflow. It intentionally excludes confidential drawings, dimensions, proprietary specifications, customer data and unreleased product information.
+
+## Engineering Case Study Structure
+
+**Problem / Scope → Design Considerations → Packaging & Integration → Validation → Engineering Learning**
+
+This portfolio uses process-focused documentation rather than confidential customer data.
