@@ -16,3 +16,9 @@ Structured notes for developing practical PLM capability around ENOVIA and the 3
 ## Goal
 
 Build a portfolio that connects mechanical engineering experience with modern PLM and digital-engineering workflows.
+
+## Engineering Case Study Structure
+
+**Problem / Scope → Design Considerations → Packaging & Integration → Validation → Engineering Learning**
+
+This portfolio uses process-focused documentation rather than confidential customer data.
